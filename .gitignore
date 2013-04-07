@@ -1,0 +1,5 @@
+javadoc/
+theory/
+*.class
+.project
+.settings/
